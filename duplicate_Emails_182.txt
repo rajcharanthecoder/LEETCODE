@@ -1,0 +1,1 @@
+SELECT Email ,count(Email) from person GROUPBY Email;
